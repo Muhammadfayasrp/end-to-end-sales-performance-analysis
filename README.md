@@ -26,10 +26,10 @@ This project demonstrates a complete end-to-end data analytics workflow — from
 ## 📊 Dashboard Preview
 
 ### Overview Page
-![Overview](dashboard/overview.png)
+![Overview](Dashboard/overview.png)
 
 ### Insights Page
-![Insights](dashboard/insights.png)
+![Insights](Dashboard/insights.png)
 
 ---
 
